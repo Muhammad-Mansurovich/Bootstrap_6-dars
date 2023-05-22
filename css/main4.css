@@ -1,0 +1,33 @@
+.width{
+    width: 220px;
+}
+.bg-red{
+    background-color: #ce4d4f;
+}
+.bg-w-red{
+    background-color: #ed595b;
+}
+.bg-blue{
+    background-color: #5f8ab4;
+}
+.bg-w-blue{
+    background-color: #72a2d2;
+}
+.bg-green{
+     background-color: #56ab56;
+ }
+.bg-w-green{
+    background-color: #61c162;
+}
+.bg-black{
+    background-color: #6c6c6c;
+}
+.bg-w-black{
+    background-color: #7f7f7f;
+}
+.bg-grey{
+    background-color: #dddddd;
+}
+.bg-w-grey{
+    background-color: #fdfdfd;
+}

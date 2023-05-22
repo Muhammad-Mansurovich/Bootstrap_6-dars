@@ -1,0 +1,53 @@
+.bg-purple{
+    background-image: radial-gradient( circle at top right, #953897, #d42590);
+}
+.text-grey{
+    color: #c0c5c9;
+}
+.text-black{
+    color: #454343;
+}
+.border-radius{
+    border-radius: 20px;
+}
+.bg-grey{
+    background-color: #f8fafe;
+}
+.width{
+    width: 190px;
+}
+.m-l-4{
+    margin-left: 35px;
+}
+.tick{
+    width: 20px;
+    height: 10px;
+    background-image: url("../rasmlar/tick.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.-ml-5{
+    margin-left: 90px;
+}
+.m-r-5{
+    margin-right: 65px;
+}
+.m-r-5-1{
+    margin-right: 10px;
+}
+.bg-blue{
+    background-color: #328dff;
+}
+.bg-gold{
+    background-image: radial-gradient(circle at bottom right, #e63b83,#f9ad55 );
+    background-color: #f9ad55;
+}
+.bg-violet{
+    background-color: #6a60ff;
+}
+.border-color{
+    border: 1px solid #6a60ff;
+}
+.text-violet{
+    color: #6a60ff;
+}

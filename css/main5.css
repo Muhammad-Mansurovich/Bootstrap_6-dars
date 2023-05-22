@@ -1,0 +1,21 @@
+.bg-blue{
+    background-color: #b7d8fd;
+}
+.bg-red{
+    background-color: #f3c4c9;
+}
+.bg-green{
+    background-color: #c1e4c9;
+}
+.bg-w-blue{
+    background-color: #bde3e9;
+}
+.bg-white{
+    background-color: #fdfdfd;
+}
+.m-l-5{
+    margin-left: 140px;
+}
+.border-bottom-{
+    border-bottom: 1px solid darkred;
+}
